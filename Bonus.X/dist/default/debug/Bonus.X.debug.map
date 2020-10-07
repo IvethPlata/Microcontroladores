@@ -1,0 +1,37 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Wed Oct 07 16:42:19 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                 RES_VECT       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                MAIN_PROG       code   0x000003    program   0x000092
+.config_2007_BUILD/DEFAULT/DEBUG/BONUS_1.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00004b      
+                            0x002007    0x002007      
+            77 out of 2182 program addresses used, program memory utilization is 3%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x00000a    program     static C:\Users\Karen Iveth\MPLABXProjects\Bonus.X\Bonus_1.asm
+                    START   0x000003    program     static C:\Users\Karen Iveth\MPLABXProjects\Bonus.X\Bonus_1.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000003    program     static C:\Users\Karen Iveth\MPLABXProjects\Bonus.X\Bonus_1.asm
+                   INICIO   0x00000a    program     static C:\Users\Karen Iveth\MPLABXProjects\Bonus.X\Bonus_1.asm
+
+
